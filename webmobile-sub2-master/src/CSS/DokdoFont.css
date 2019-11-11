@@ -1,0 +1,28 @@
+.DokdoFont{
+  line-height: 1.2em;
+  color: rgba(0, 0, 0, 0.69);
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+.DokdoSubTitle{
+  line-height: 1.2em;
+  font-size: 4vw;
+  color: rgba(0, 0, 0, 0.69);
+  font-style: italic;
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+.DokdoList{
+  font-family: 'East Sea Dokdo', cursive;
+}
+
+.DokdoHeader{
+  font-family: 'East Sea Dokdo',cursive;
+  color: black;
+  font-size:28px;
+}
+
+.DokdoHeader2{
+  font-family: 'East Sea Dokdo', cursive;
+  font-size:25px;
+}

@@ -1,0 +1,16 @@
+#padding {
+  padding: 3px;
+}
+
+#writeBtn {
+  background-color: #C88566;
+  color: white;
+}
+
+#plusBtn {
+  background-color: #EAD3B3;
+}
+
+#minusBtn {
+  background-color: #DB9D7B;
+}
