@@ -10,7 +10,7 @@
     "@amcharts/amcharts4": "^4.5.5",
     "@inotom/vue-go-top": "^1.1.0",
     "axios": "^0.18.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "chartkick": "^3.1.0",
     "core-js": "^2.6.5",
     "detect-browser": "^4.5.1",
