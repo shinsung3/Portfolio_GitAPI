@@ -11,7 +11,7 @@
     "@inotom/vue-go-top": "^1.1.0",
     "axios": "^0.18.1",
     "chart.js": "^2.8.0",
-    "chartkick": "^3.1.0",
+    "chartkick": "^3.2.0",
     "core-js": "^2.6.5",
     "detect-browser": "^4.5.1",
     "firebase": "^5.9.3",
